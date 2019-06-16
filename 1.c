@@ -1,2 +1,2 @@
 hello all sounds good.
-y
+yes
